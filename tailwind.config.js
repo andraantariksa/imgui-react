@@ -10,6 +10,9 @@ module.exports = {
         secondary: '#274972',
         'secondary-active': '#4296fa',
         'text-primary': '#d3dae2'
+      },
+      fontFamily: {
+        'proggy-clean': ['Proggy Clean', 'mono']
       }
     },
   },
