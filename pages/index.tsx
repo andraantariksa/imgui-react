@@ -1,9 +1,9 @@
-import { MenuBarSection, Window } from "./components/window";
-import { NumberSlider } from "./components/slider";
-import { Text } from "./components/text";
-import { Checkbox } from "./components/checkbox";
-import { Button } from "./components/button";
-import { Row } from "./components/layout";
+import { MenuBarSection, Window } from "../components/window";
+import { NumberSlider } from "../components/slider";
+import { Text } from "../components/text";
+import { Checkbox } from "../components/checkbox";
+import { Button } from "../components/button";
+import { Row } from "../components/layout";
 
 const DebugWindow = () => {
   return (
